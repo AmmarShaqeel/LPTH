@@ -1,0 +1,27 @@
+lexicon {
+    "north" : direction,
+    "south" : direction,
+    "east" : direction,
+    "west" : direction,
+    "down" : direction,
+    "up" : direction, 
+    "left" : direction,
+    "right" : direction,
+    "back" : direction,
+    "go" : verb,
+    "stop" : verb,
+    "kill" : verb,
+    "eat" : verb,
+    "the" : stop word,
+    "in" : stop word,
+    "of" : stop word,
+    "from" : stop word,
+    "at" : stop word,
+    "it" : stop word,
+    "door" : noun,
+    "bear" : noun, 
+    "princess" : noun,
+    "cabinet" : noun,
+    }
+
+    
