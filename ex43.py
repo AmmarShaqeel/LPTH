@@ -4,7 +4,7 @@ from random import randint
 class Scene(object):
 
 	def enter(self):
-		print "undefined fill out."
+		print "This scene is not yet configured"
 		exit(1)
 		
 class Engine(object):
@@ -15,7 +15,7 @@ class Engine(object):
 
     def play(self):
         current_scene = self.scene_map.opening_scene()
-        print "Play's first scene", current_scene
+        print "Plays first scene", current_scene
 
         while True:
            # print "\n--------"
